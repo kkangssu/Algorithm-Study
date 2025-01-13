@@ -21,11 +21,11 @@
 알고리즘스터디/
 ├── member1/
 │   ├── week1/
-│   │   ├── problem1.py
-│   │   └── problem2.py
+│   │   ├── problem1.java
+│   │   └── problem2.java
 │   └── week2/
-│       ├── problem1.py
-│       └── problem2.py
+│       ├── problem1.java
+│       └── problem2.java
 ├── member2/
 └── README.md
 ```

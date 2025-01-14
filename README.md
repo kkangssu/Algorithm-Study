@@ -5,6 +5,12 @@
 매주 정해진 문제들을 풀고 코드를 공유하며 함께 성장하는 것을 목표로 합니다
 
 ### 👥 스터디 멤버
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.PNG" width="100px;" alt=""/><br /><sub><b>zyu22</b></sub></a><br /><a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    
+  </tr>
+</table>
 멤버 | GitHub | 사용 언어
 :---: | :---: | :---:
 kkangssu | [@kkangssu](https://github.com/kkangssu) | Java

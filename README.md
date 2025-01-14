@@ -5,28 +5,9 @@
 매주 정해진 문제들을 풀고 코드를 공유하며 함께 성장하는 것을 목표로 합니다
 
 ### 👥 스터디 멤버
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/SungMoonPark"><img src="https://github.com/SungMoonPark.png" width="100px;" alt=""/><br />
-      <sub><b>SungMoonPark</b></sub></a><br />
-      <a href="https://github.com/SungMoonPark"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.png" width="100px;" alt=""/><br />
-      <sub><b>kkangssu</b></sub></a><br />
-      <a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td align="center"><a href="https://github.com/QQQomputer"><img src="https://github.com/QQQomputer.png" width="100px;" alt=""/><br />
-      <sub><b>QQQomputer</b></sub></a><br />
-      <a href="https://github.com/QQQomputer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td align="center"><a href="https://github.com/clapsheep"><img src="https://github.com/clapsheep.png" width="100px;" alt=""/><br />
-      <sub><b>clapsheep</b></sub></a><br />
-      <a href="https://github.com/clapsheep"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td align="center"><a href="https://github.com/EliteZer0"><img src="https://github.com/EliteZer0.png" width="100px;" alt=""/><br />
-      <sub><b>Diana Yeyoung Jeong</b></sub></a><br />
-      <a href="https://github.com/EliteZer0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td align="center"><a href="https://github.com/rpeowiqu"><img src="https://github.com/rpeowiqu.png" width="100px;" alt=""/><br />
-      <sub><b>JaeSeoHan</b></sub></a><br />
-      <a href="https://github.com/rpeowiqu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-  </tr>
-</table>
+
+|[<img src="https://github.com/SungMoonPark.png" width="100px;"/><br/><sub><b>SungMoonPark</b></sub>](https://github.com/SungMoonPark)<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SungMoonPark)|[<img src="https://github.com/kkangssu.png" width="100px;"/><br/><sub><b>kkangssu</b></sub>](https://github.com/kkangssu)<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kkangssu)|[<img src="https://github.com/QQQomputer.png" width="100px;"/><br/><sub><b>QQQomputer</b></sub>](https://github.com/QQQomputer)<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/QQQomputer)|[<img src="https://github.com/clapsheep.png" width="100px;"/><br/><sub><b>clapsheep</b></sub>](https://github.com/clapsheep)<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/clapsheep)|[<img src="https://github.com/EliteZer0.png" width="100px;"/><br/><sub><b>Diana Yeyoung Jeong</b></sub>](https://github.com/EliteZer0)<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EliteZer0)|[<img src="https://github.com/rpeowiqu.png" width="100px;"/><br/><sub><b>JaeSeoHan</b></sub>](https://github.com/rpeowiqu)<br/>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rpeowiqu)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### 📅 진행 방식
 
@@ -76,7 +57,7 @@ PR 마감:<br>
 코드 리뷰: 매주 목요일<br>
 
 ### 🏆 문제 풀이 현황
-| 주차 | 날짜 | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|  | 날짜 | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|:---:|:---|:---|:---|:---|
 | 1 | 24.07.25 | [1859. 백만 장자 프로젝트][1] | [1204. 최빈수 구하기][2] | [1954. 달팽이 숫자][3] | [1926. 간단한 369게임][4] |
 | 2 | 24.08.01 | [2001. 파리 퇴치][5] | [1974. 스도쿠 검증][6] | [2007. 패턴 마디의 길이][7] | [2005. 파스칼의 삼각형][8] |

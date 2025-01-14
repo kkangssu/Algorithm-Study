@@ -78,11 +78,22 @@ PR 마감:<br>
 ### 🏆 문제 풀이 현황
 | 주차 | 날짜 | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|:---:|:---|:---|:---|:---|
-| 1주차 | 24.07.25 | [1859. 백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&) | [1204. 최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh) | [1954. 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | [1926. 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq) |
-2주차 | 24.08.01 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&">2001. 파리 퇴치</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq">1974. 스도쿠 검증</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq">2007. 패턴 마디의 길이</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq">2005. 파스칼의 삼각형</a> |
-3주차 |  | |
-20주차 |  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344">파괴되지 않은 건물</a> | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | <a href="https://www.acmicpc.net/problem/12886">돌 그룹</a> 
+| 1주차 | 24.07.25 | [1859. 백만 장자 프로젝트][1] | [1204. 최빈수 구하기][2] | [1954. 달팽이 숫자][3] | [1926. 간단한 369게임][4] |
+| 2주차 | 24.08.01 | [2001. 파리 퇴치][5] | [1974. 스도쿠 검증][6] | [2007. 패턴 마디의 길이][7] | [2005. 파스칼의 삼각형][8] |
+| 3주차 | | | | | |
+| 20주차 | | [파괴되지 않은 건물][9] | [게임 개발][10] | [돌 그룹][11] | |
 
+[1]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&
+[2]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh
+[3]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq
+[4]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq
+[5]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq
+[6]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq
+[7]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq
+[8]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq
+[9]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
+[10]: https://www.acmicpc.net/problem/1516
+[11]: https://www.acmicpc.net/problem/12886
 
 ### 🔍 참고 사이트
 

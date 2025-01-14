@@ -78,7 +78,7 @@ PR 마감:<br>
 ### 🏆 문제 풀이 현황
 주차 | 문제 1 | 문제 2 | 문제 3
 :---: | :---: | :---: | :---:
-1주차 | <a href="[https://github.com/SungMoonPark](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&)">1859. 백만 장자 프로젝트</a> | [문제명](문제링크) | [문제명](문제링크)
+1주차 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&">1859. 백만 장자 프로젝트</a> | [문제명](문제링크) | [문제명](문제링크)
 2주차 | [문제명](문제링크) | [문제명](문제링크) | [문제명](문제링크)
 
 ### 🔍 참고 사이트

@@ -79,7 +79,9 @@ PR 마감:<br>
 주차 | 문제 1 | 문제 2 | 문제 3
 :---: | :---: | :---: | :---:
 1주차 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&">1859. 백만 장자 프로젝트</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh">1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq">1954. 달팽이 숫자</a> |<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq">1926. 간단한 369게임</a>
-2주차 | [문제명](문제링크) | [문제명](문제링크) | [문제명](문제링크)
+2주차 |  | | 
+3주차 |  | |
+20주차 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344">파괴되지 않은 건물</a> | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | <a href="https://www.acmicpc.net/problem/12886">돌 그룹</a> 
 
 ### 🔍 참고 사이트
 

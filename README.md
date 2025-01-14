@@ -7,12 +7,12 @@
 ### 👥 스터디 멤버
 멤버 | GitHub | 사용 언어
 :---: | :---: | :---:
-멤버1 | [@member1](https://github.com/member1) | Java
-멤버2 | [@member2](https://github.com/member2) | Java
-멤버3 | [@member2](https://github.com/member2) | Java
-멤버4 | [@member2](https://github.com/member2) | Java
-멤버5 | [@member2](https://github.com/member2) | Java
-멤버6 | [@member2](https://github.com/member2) | Java
+kkangssu | [@kkangssu](https://github.com/kkangssu) | Java
+ | [@member2](https://github.com/member2) | Java
+ | [@member2](https://github.com/member2) | Java
+ | [@member2](https://github.com/member2) | Java
+ | [@member2](https://github.com/member2) | Java
+ | [@member2](https://github.com/member2) | Java
 
 ### 📅 진행 방식
 

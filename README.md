@@ -7,18 +7,26 @@
 ### 👥 스터디 멤버
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.png" width="100px;" alt=""/><br /><sub><b>kkangssu</b></sub></a><br /><a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    
+    <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.png" width="100px;" alt=""/><br />
+      <sub><b>kkangssu</b></sub></a><br />
+      <a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/QQQomputer"><img src="https://github.com/QQQomputer.png" width="100px;" alt=""/><br />
+      <sub><b>QQQomputer</b></sub></a><br />
+      <a href="https://github.com/QQQomputer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/SungMoonPark"><img src="https://github.com/SungMoonPark.png" width="100px;" alt=""/><br />
+      <sub><b>SungMoonPark</b></sub></a><br />
+      <a href="https://github.com/SungMoonPark"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/clapsheep"><img src="https://github.com/clapsheep.png" width="100px;" alt=""/><br />
+      <sub><b>clapsheep</b></sub></a><br />
+      <a href="https://github.com/clapsheep"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/EliteZer0"><img src="https://github.com/EliteZer0.png" width="100px;" alt=""/><br />
+      <sub><b>Diana Yeyoung Jeong</b></sub></a><br />
+      <a href="https://github.com/EliteZer0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/rpeowiqu"><img src="https://github.com/rpeowiqu.png" width="100px;" alt=""/><br />
+      <sub><b>JaeSeoHan</b></sub></a><br />
+      <a href="https://github.com/rpeowiqu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
   </tr>
 </table>
-멤버 | GitHub | 사용 언어
-:---: | :---: | :---:
-kkangssu | [@kkangssu](https://github.com/kkangssu) | Java
- | [@member2](https://github.com/member2) | Java
- | [@member2](https://github.com/member2) | Java
- | [@member2](https://github.com/member2) | Java
- | [@member2](https://github.com/member2) | Java
- | [@member2](https://github.com/member2) | Java
 
 ### 📅 진행 방식
 

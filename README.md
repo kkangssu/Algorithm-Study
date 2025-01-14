@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.png" width="100px;" alt=""/><br />
-      <sub><b>kkangssu</b></sub></a><br /><br>
+      <sub><b>kkangssu</b></sub></a><br />
       <a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/QQQomputer"><img src="https://github.com/QQQomputer.png" width="100px;" alt=""/><br />
       <sub><b>QQQomputer</b></sub></a><br />

@@ -7,7 +7,7 @@
 ### 👥 스터디 멤버
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.PNG" width="100px;" alt=""/><br /><sub><b>zyu22</b></sub></a><br /><a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.png" width="100px;" alt=""/><br /><sub><b>zyu22</b></sub></a><br /><a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     
   </tr>
 </table>

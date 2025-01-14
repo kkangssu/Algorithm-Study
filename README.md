@@ -7,15 +7,15 @@
 ### 👥 스터디 멤버
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/SungMoonPark"><img src="https://github.com/SungMoonPark.png" width="100px;" alt=""/><br />
+      <sub><b>SungMoonPark</b></sub></a><br />
+      <a href="https://github.com/SungMoonPark"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/kkangssu"><img src="https://github.com/kkangssu.png" width="100px;" alt=""/><br />
       <sub><b>kkangssu</b></sub></a><br />
       <a href="https://github.com/kkangssu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/QQQomputer"><img src="https://github.com/QQQomputer.png" width="100px;" alt=""/><br />
       <sub><b>QQQomputer</b></sub></a><br />
       <a href="https://github.com/QQQomputer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
-    <td align="center"><a href="https://github.com/SungMoonPark"><img src="https://github.com/SungMoonPark.png" width="100px;" alt=""/><br />
-      <sub><b>SungMoonPark</b></sub></a><br />
-      <a href="https://github.com/SungMoonPark"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/clapsheep"><img src="https://github.com/clapsheep.png" width="100px;" alt=""/><br />
       <sub><b>clapsheep</b></sub></a><br />
       <a href="https://github.com/clapsheep"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
@@ -83,7 +83,7 @@ PR 마감:<br>
 
 ### 🔍 참고 사이트
 
-- 백준 온라인 저지<br>
+- 백준 온라인 저지
 - 프로그래머스
 
 ### ⚠️ 주의사항

@@ -61,8 +61,8 @@ PR 마감:<br>
 |:---:|:---:|:---|:---|:---|:---|
 | 1 | 24.07.25 | [1859. 백만 장자 프로젝트][1] | [1204. 최빈수 구하기][2] | [1954. 달팽이 숫자][3] | [1926. 간단한 369게임][4] |
 | 2 | 24.08.01 | [2001. 파리 퇴치][5] | [1974. 스도쿠 검증][6] | [2007. 패턴 마디의 길이][7] | [2005. 파스칼의 삼각형][8] |
-| 3 | | | | | |
-| 4 | | | | | |
+| 3 | 24.08.08 | [1979. 어디에 단어가 들어갈 수 있을까][9] | [1284. 수도 요금 경쟁][10] | [1989. 초심자의 회문 검사][11] | [1961. 숫자 배열 회전][12] |
+| 4 | 24.08.15 | [1984. 중간 평균값 구하기][13] | [1959. 두 개의 숫자열][14] | [1983. 조교의 성적 매기기][15] | [1928. Base64 Decoder][16] |
 | 5 | | | | | |
 | 6 | | | | | |
 | 7 | | | | | |
@@ -88,6 +88,14 @@ PR 마감:<br>
 [6]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq
 [7]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq
 [8]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq
+[9]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq&
+[10]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN
+[11]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PyTLqAf4DFAUq
+[12]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq
+[13]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq
+[14]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq
+[15]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq
+[16]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PR4DKAG0DFAUq
 [73]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
 [74]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
 [75]: https://www.acmicpc.net/problem/2252

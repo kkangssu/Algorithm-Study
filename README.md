@@ -9,6 +9,10 @@
 :---: | :---: | :---:
 멤버1 | [@member1](https://github.com/member1) | Java
 멤버2 | [@member2](https://github.com/member2) | Java
+멤버3 | [@member2](https://github.com/member2) | Java
+멤버4 | [@member2](https://github.com/member2) | Java
+멤버5 | [@member2](https://github.com/member2) | Java
+멤버6 | [@member2](https://github.com/member2) | Java
 
 ### 📅 진행 방식
 

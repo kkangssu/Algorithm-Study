@@ -81,7 +81,8 @@ PR 마감:<br>
 | 1주차 | 24.07.25 | [1859. 백만 장자 프로젝트][1] | [1204. 최빈수 구하기][2] | [1954. 달팽이 숫자][3] | [1926. 간단한 369게임][4] |
 | 2주차 | 24.08.01 | [2001. 파리 퇴치][5] | [1974. 스도쿠 검증][6] | [2007. 패턴 마디의 길이][7] | [2005. 파스칼의 삼각형][8] |
 | 3주차 | | | | | |
-| 20주차 | | [파괴되지 않은 건물][9] | [게임 개발][10] | [돌 그룹][11] | |
+| 19주차 | | [길 찾기 게임][73] | [단속카메라][74] | [줄 세우기][75] | [전깃줄][76] |
+| 20주차 | | [파괴되지 않은 건물][77] | [게임 개발][78] | [돌 그룹][79] | |
 
 [1]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&
 [2]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh
@@ -91,9 +92,13 @@ PR 마감:<br>
 [6]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq
 [7]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq
 [8]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq
-[9]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
-[10]: https://www.acmicpc.net/problem/1516
-[11]: https://www.acmicpc.net/problem/12886
+[73]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
+[74]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
+[75]: https://www.acmicpc.net/problem/2252
+[76]: https://www.acmicpc.net/problem/2565
+[77]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
+[78]: https://www.acmicpc.net/problem/1516
+[79]: https://www.acmicpc.net/problem/12886
 
 ### 🔍 참고 사이트
 

@@ -76,12 +76,13 @@ PR 마감:<br>
 코드 리뷰: 매주 목요일<br>
 
 ### 🏆 문제 풀이 현황
-주차 | 날짜 | 문제 1 | 문제 2 | 문제 3 | 문제4
-:---: | :---: | :---: | :---: | :---: | :---:
-1주차 | 24.07.25 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&">1859. 백만 장자 프로젝트</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh">1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq">1954. 달팽이 숫자</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq">1926. 간단한 369게임</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq">1926. 간단한 369게임</a>
-2주차 | 24.08.01 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&">2001. 파리 퇴치</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq">1974. 스도쿠 검증</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq">2007. 패턴 마디의 길이</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq">2005. 파스칼의 삼각형</a>
+| 주차 | 날짜 | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---|:---|:---|:---|
+1주차 | 24.07.25 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&">1859. 백만 장자 프로젝트</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh">1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq">1954. 달팽이 숫자</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq">1926. 간단한 369게임</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq">1926. 간단한 369게임</a> |
+2주차 | 24.08.01 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&">2001. 파리 퇴치</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq">1974. 스도쿠 검증</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq">2007. 패턴 마디의 길이</a> | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq">2005. 파스칼의 삼각형</a> |
 3주차 |  | |
 20주차 |  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344">파괴되지 않은 건물</a> | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | <a href="https://www.acmicpc.net/problem/12886">돌 그룹</a> 
+
 
 ### 🔍 참고 사이트
 

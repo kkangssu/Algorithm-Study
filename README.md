@@ -66,8 +66,9 @@ PR 마감:<br>
 | 5 | 24.08.22 | [1288. 새로운 불면증 치료법][17] | [1945. 간단한 소인수분해][18] | [1970. 쉬운 거스름돈][19] | [1966. 숫자를 정렬하자][20] |
 | 6 | 24.08.29 | [부등호][21] | [단어 수학][22] | [연산자 끼워넣기][23] | [스타트와 링크][24] |
 |  | | [로또][25] | [부분수열의 합][26] | [부분수열의 합][27] | |
-| 8 | | | | | |
-| 9 | | | | | |
+| 8 | 24.09.12 | [테트로미노][28] | [두 동전][29] | [에너지 모으기][30] | [뱀과 사다리 게임][31] |
+|  | | [데스 나이트][32] | [DSLR][33] | [공유기 설치][34] | [네트워크 연결][35] |
+| 9 | | [동전 뒤집기][36] | | | |
 | 10 | | | | | |
 | 11 | | | | | |
 | 12 | | | | | |
@@ -107,6 +108,15 @@ PR 마감:<br>
 [25]: https://www.acmicpc.net/problem/6603
 [26]: https://www.acmicpc.net/problem/1182
 [27]: https://www.acmicpc.net/problem/14225
+[28]: https://www.acmicpc.net/problem/14500
+[29]: https://www.acmicpc.net/problem/16197
+[30]: https://www.acmicpc.net/problem/16198
+[31]: https://www.acmicpc.net/problem/16928
+[32]: https://www.acmicpc.net/problem/16948
+[33]: https://www.acmicpc.net/problem/9019
+[34]: https://www.acmicpc.net/problem/2110
+[35]: https://www.acmicpc.net/problem/1922
+[36]: https://www.acmicpc.net/problem/1285
 [73]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
 [74]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
 [75]: https://www.acmicpc.net/problem/2252

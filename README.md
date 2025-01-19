@@ -101,7 +101,7 @@ PR 마감:<br>
 [19]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq
 [20]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq
 [21]: https://www.acmicpc.net/problem/2529
-[22]: 
+[22]: https://www.acmicpc.net/problem/1339
 [73]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
 [74]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
 [75]: https://www.acmicpc.net/problem/2252

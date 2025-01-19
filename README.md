@@ -64,7 +64,7 @@ PR 마감:<br>
 | 3 | 24.08.08 | [1979. 어디에 단어가 들어갈 수 있을까][9] | [1284. 수도 요금 경쟁][10] | [1989. 초심자의 회문 검사][11] | [1961. 숫자 배열 회전][12] |
 | 4 | 24.08.15 | [1984. 중간 평균값 구하기][13] | [1959. 두 개의 숫자열][14] | [1983. 조교의 성적 매기기][15] | [1928. Base64 Decoder][16] |
 | 5 | 24.08.22 | [1288. 새로운 불면증 치료법][17] | [1945. 간단한 소인수분해][18] | [1970. 쉬운 거스름돈][19] | [1966. 숫자를 정렬하자][20] |
-| 6 | 24.08.29 | [부등호](https://www.acmicpc.net/problem/2529){:target="_blank"} | [단어 수학][22] | [연산자 끼워넣기][23] | [스타트와 링크][24] |
+| 6 | 24.08.29 | [부등호][21] | [단어 수학][22] | [연산자 끼워넣기][23] | [스타트와 링크][24] |
 | | | [로또][25] | [부분수열의 합][26] | [부분수열의 합][27] | |
 | 8 | 24.09.12 | [테트로미노][28] | [두 동전][29] | [에너지 모으기][30] | [뱀과 사다리 게임][31] |
 | | | [데스 나이트][32] | [DSLR][33] | [공유기 설치][34] | [네트워크 연결][35] |
@@ -107,6 +107,7 @@ PR 마감:<br>
 [18]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
 [19]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq
 [20]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq
+[21]: https://www.acmicpc.net/problem/2529
 [22]: https://www.acmicpc.net/problem/1339
 [23]: https://www.acmicpc.net/problem/14888
 [24]: https://www.acmicpc.net/problem/14889

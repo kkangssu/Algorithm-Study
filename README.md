@@ -63,8 +63,8 @@ PR 마감:<br>
 | 2 | 24.08.01 | [2001. 파리 퇴치][5] | [1974. 스도쿠 검증][6] | [2007. 패턴 마디의 길이][7] | [2005. 파스칼의 삼각형][8] |
 | 3 | 24.08.08 | [1979. 어디에 단어가 들어갈 수 있을까][9] | [1284. 수도 요금 경쟁][10] | [1989. 초심자의 회문 검사][11] | [1961. 숫자 배열 회전][12] |
 | 4 | 24.08.15 | [1984. 중간 평균값 구하기][13] | [1959. 두 개의 숫자열][14] | [1983. 조교의 성적 매기기][15] | [1928. Base64 Decoder][16] |
-| 5 | | | | | |
-| 6 | | | | | |
+| 5 | 24.08.22 | [1288. 새로운 불면증 치료법][17] | [1945. 간단한 소인수분해][18] | [1970. 쉬운 거스름돈][19] | [1966. 숫자를 정렬하자][20] |
+| 6 | 24.08.29 | [부등호][21][] | | | |
 | 7 | | | | | |
 | 8 | | | | | |
 | 9 | | | | | |
@@ -96,6 +96,11 @@ PR 마감:<br>
 [14]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq
 [15]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq
 [16]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PR4DKAG0DFAUq
+[17]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&
+[18]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq
+[19]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq
+[20]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq
+[21]: https://www.acmicpc.net/problem/2529
 [73]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
 [74]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
 [75]: https://www.acmicpc.net/problem/2252

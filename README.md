@@ -65,21 +65,27 @@ PR 마감:<br>
 | 4 | 24.08.15 | [1984. 중간 평균값 구하기][13] | [1959. 두 개의 숫자열][14] | [1983. 조교의 성적 매기기][15] | [1928. Base64 Decoder][16] |
 | 5 | 24.08.22 | [1288. 새로운 불면증 치료법][17] | [1945. 간단한 소인수분해][18] | [1970. 쉬운 거스름돈][19] | [1966. 숫자를 정렬하자][20] |
 | 6 | 24.08.29 | [부등호][21] | [단어 수학][22] | [연산자 끼워넣기][23] | [스타트와 링크][24] |
-|  | | [로또][25] | [부분수열의 합][26] | [부분수열의 합][27] | |
+| | | [로또][25] | [부분수열의 합][26] | [부분수열의 합][27] | |
 | 8 | 24.09.12 | [테트로미노][28] | [두 동전][29] | [에너지 모으기][30] | [뱀과 사다리 게임][31] |
-|  | | [데스 나이트][32] | [DSLR][33] | [공유기 설치][34] | [네트워크 연결][35] |
-| 9 | | [동전 뒤집기][36] | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
-| 13 | | | | | |
-| 14 | | | | | |
-| 15 | | | | | |
+| | | [데스 나이트][32] | [DSLR][33] | [공유기 설치][34] | [네트워크 연결][35] |
+| 9 | 24.09.19 | [동전 뒤집기][36] | [레이저 통신][37] | [움직이는 미로 탈출][38] | [전구와 스위치][39] |
+| | | [톱니바퀴][40] | [선분과 점][41] | | |
+| 10 | 24.09.26 | [가장 긴 감소하는 부분 수열][42] | [불!][43] | [휴게소 세우기][44] | [여행 가자][45] |
+| | | [최소비용 구하기][46] | [줄 세우기][47] | | |
+| 11 | 24.10.04 | [하노이 탑 이동 순서][48] | [가장 긴 증가하는 부분 수열 2][49] | [사다리][50] | [소수 경로][51] |
+| | | [스도쿠][52] | | | |
+| 12 | 24.10.10 | [빙산][53] | [링크와 스타트][54] | [주유소][55] | [게임 개발][56] |
+| 13 | 24.10.17 | [청소][57] | [양팔저울][58] | [청소년 상어][59] | [스타트 택시][60] |
+| | | [LCS][61] | [팰린드롬?][62] | | |
+| 14 | 24.10.24 | [소문난 칠공주][63] | [죽음의 비][64] | [사다리][65] | [알약][66] |
+| | | [물벼룩의 생존확률][67] | [캡틴 이다솜][68] | | |
+| 15 | 24.10.31 | [마법사 상어와 토네이도][69] | [모래성][70] | [토끼의 이동][71] | [아우으 우아으이야!!][72] |
+| | | [전깃줄][73] | [즐거운 단어][74] | | |
 | 16 | | | | | |
 | 17 | | | | | |
 | 18 | | | | | |
-| 19 | 24.12.26 | [길 찾기 게임][73] | [단속카메라][74] | [줄 세우기][75] | [전깃줄][76] |
-| 20 | 24.01.09 | [파괴되지 않은 건물][77] | [게임 개발][78] | [돌 그룹][79] | |
+| 19 | 24.12.26 | [길 찾기 게임][94] | [단속카메라][95] | [줄 세우기][96] | [전깃줄][97] |
+| 20 | 24.01.09 | [파괴되지 않은 건물][98] | [게임 개발][99] | [돌 그룹][100] | |
 
 [1]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&
 [2]: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh
@@ -117,13 +123,51 @@ PR 마감:<br>
 [34]: https://www.acmicpc.net/problem/2110
 [35]: https://www.acmicpc.net/problem/1922
 [36]: https://www.acmicpc.net/problem/1285
-[73]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
-[74]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
-[75]: https://www.acmicpc.net/problem/2252
-[76]: https://www.acmicpc.net/problem/2565
-[77]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
-[78]: https://www.acmicpc.net/problem/1516
-[79]: https://www.acmicpc.net/problem/12886
+[37]: https://www.acmicpc.net/problem/6087
+[38]: https://www.acmicpc.net/problem/16954
+[39]: https://www.acmicpc.net/problem/2138
+[40]: https://www.acmicpc.net/problem/12886
+[41]: https://www.acmicpc.net/problem/11664
+[42]: https://www.acmicpc.net/problem/11722
+[43]: https://www.acmicpc.net/problem/4179
+[44]: https://www.acmicpc.net/problem/1477
+[45]: https://www.acmicpc.net/problem/1976
+[46]: https://www.acmicpc.net/problem/1916
+[47]: https://www.acmicpc.net/problem/2252
+[48]: https://www.acmicpc.net/problem/11729
+[49]: https://www.acmicpc.net/problem/12015
+[50]: https://www.acmicpc.net/problem/2022
+[51]: https://www.acmicpc.net/problem/1963
+[52]: https://www.acmicpc.net/problem/2580
+[53]: https://www.acmicpc.net/problem/2573
+[54]: https://www.acmicpc.net/problem/15661
+[55]: https://www.acmicpc.net/problem/13308
+[56]: https://www.acmicpc.net/problem/1516
+[57]: https://www.acmicpc.net/problem/27232
+[58]: https://www.acmicpc.net/problem/2629
+[59]: https://www.acmicpc.net/problem/19236
+[60]: https://www.acmicpc.net/problem/19238
+[61]: https://www.acmicpc.net/problem/9251
+[62]: https://www.acmicpc.net/problem/10942
+[63]: https://www.acmicpc.net/problem/1941
+[64]: https://www.acmicpc.net/problem/22944
+[65]: https://www.acmicpc.net/problem/2528
+[66]: https://www.acmicpc.net/problem/4811
+[67]: https://www.acmicpc.net/problem/13703
+[68]: https://www.acmicpc.net/problem/1660
+[69]: https://www.acmicpc.net/problem/20057
+[70]: https://www.acmicpc.net/problem/10711
+[71]: https://www.acmicpc.net/problem/3101
+[72]: https://www.acmicpc.net/problem/15922
+[73]: https://www.acmicpc.net/problem/2565
+[74]: https://www.acmicpc.net/problem/2922 
+[94]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
+[95]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
+[96]: https://www.acmicpc.net/problem/2252
+[97]: https://www.acmicpc.net/problem/2565
+[98]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
+[99]: https://www.acmicpc.net/problem/1516
+[100]: https://www.acmicpc.net/problem/12886
 
 ### 🔍 참고 사이트
 

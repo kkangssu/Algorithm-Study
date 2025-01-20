@@ -57,7 +57,9 @@ PR 마감:<br>
 코드 리뷰: 매주 목요일<br>
 
 
-
+- [ ] 체크박스
+- [ ] [부등호][23]
+[23]: https://velog.io/@ddangle/SpringBoot-3.1.x-AWS-S3-presigned-url-%EC%83%9D%EC%84%B1
 ### 🔍 참고 사이트
 
 - SWEA

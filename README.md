@@ -56,8 +56,6 @@
 PR 마감:<br>
 코드 리뷰: 매주 목요일<br>
 
-
-- [ ] 체크박스
 |  | 날짜 | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|:---:|:---|:---|:---|:---|
 | 1 | 24.07.25 | [1859. 백만 장자 프로젝트][1] | [1204. 최빈수 구하기][2] | [1954. 달팽이 숫자][3] | [1926. 간단한 369게임][4] |

@@ -13,9 +13,7 @@ class Solution
                 }
                 boolean no = false;
                 while(left < right){
-                    if(left < 0 || right >= s.length()){
-                        break;
-                    }
+                    
                     if(s.charAt(left++) != s.charAt(right--)){
                         no = true;
                         break;

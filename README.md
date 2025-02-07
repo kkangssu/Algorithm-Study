@@ -106,11 +106,11 @@
 |      |             [데스 나이트][34]             |               [DSLR][35]               |           [공유기 설치][36]            |         [네트워크 연결][37]         |
 |  8   |             [동전 뒤집기][38]             |           [레이저 통신][39]            |        [움직이는 미로 탈출][40]        |         [전구와 스위치][41]         |
 |      |      [돌 그룹][42]:white_check_mark:      |            [선분과 점][43]             |
-|  9   |     [가장 긴 감소하는 부분 수열][44]      |               [불!][45]                |          [휴게소 세우기][46]           |           [여행 가자][47]           |
+|  9   |     [가장 긴 감소하는 부분 수열][44]      |               [불!][45]                |  [휴게소 세우기][46]:white_check_mark:  |           [여행 가자][47]           |
 |      |           [최소비용 구하기][48]           |   [줄 세우기][49]:white_check_mark:    |
 |  10  |         [하노이 탑 이동 순서][50]         |   [가장 긴 증가하는 부분 수열 2][51]   |              [사다리][52]              |           [소수 경로][53]           |
 |      |               [스도쿠][54]                |
-|  11  |                [빙산][55]                 |          [링크와 스타트][56]           |              [주유소][57]              |  [게임 개발][58]:white_check_mark:  |
+|  11  |                [빙산][55]                 |  [링크와 스타트][56]:white_check_mark:  |              [주유소][57]              |  [게임 개발][58]:white_check_mark:  |
 |  12  |                [청소][59]                 |             [양팔저울][60]             |           [청소년 상어][61]            |          [스타트 택시][62]          |
 |      |                 [LCS][63]                 |            [팰린드롬?][64]             |
 |  13  |            [소문난 칠공주][65]            |            [죽음의 비][66]             |              [사다리][67]              |             [알약][68]              |
@@ -122,9 +122,10 @@
 |  16  |            [소수의 연속합][82]            |              [문제집][83]              |              [가스관][84]              |          [상어 중학교][85]          |
 |      |          [특정한 최단 경로][86]           |           [2048 (Easy)][87]            |
 |  17  |              [석유시추][88]               |              [등굣길][89]              |         [미로 탈출 명령어][90]         |
-|  18  |            [길 찾기 게임][91]             |            [단속카메라][92]            | [줄 세우기][93]:ballot_box_with_check: | [전깃줄][94]:ballot_box_with_check: |
-|  19  |         [파괴되지 않은 건물][95]          | [게임 개발][96]:ballot_box_with_check: |  [돌 그룹][97]:ballot_box_with_check:  |
-|  20  |             [문자열 폭발][98]             |       [벽 부수고 이동하기 2][99]       |             [동전 1][100]              |       [가장 긴 팰린드롬][101]       |
+|  18  |            [길 찾기 게임][91]             |            [단속카메라][92]            | [줄 세우기][49]:ballot_box_with_check: | [전깃줄][75]:ballot_box_with_check: |
+|  19  |         [파괴되지 않은 건물][93]          | [게임 개발][58]:ballot_box_with_check: |  [돌 그룹][42]:ballot_box_with_check:  |
+|  20  |             [문자열 폭발][94]             |       [벽 부수고 이동하기 2][95]       |             [동전 1][96]              |       [가장 긴 팰린드롬][97]       |
+|  21  |  [휴게소 세우기][46]:ballot_box_with_check:  |  [링크와 스타트][56]:ballot_box_with_check:  |  [징검다리 건너기][98]  |  [거리두기 확인하기][99]  |
 
 :ballot_box_with_check:: 복습 문제
 :white_check_mark:: 복습한 문제
@@ -221,15 +222,13 @@
 [90]: https://school.programmers.co.kr/learn/courses/30/lessons/150365
 [91]: https://school.programmers.co.kr/learn/courses/30/lessons/42892
 [92]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
-[93]: https://www.acmicpc.net/problem/2252
-[94]: https://www.acmicpc.net/problem/2565
-[95]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
-[96]: https://www.acmicpc.net/problem/1516
-[97]: https://www.acmicpc.net/problem/12886
-[98]: https://www.acmicpc.net/problem/9935
-[99]: https://www.acmicpc.net/problem/14442
-[100]: https://www.acmicpc.net/problem/2293
-[101]: https://school.programmers.co.kr/learn/courses/30/lessons/12904
+[93]: https://school.programmers.co.kr/learn/courses/30/lessons/92344
+[94]: https://www.acmicpc.net/problem/9935
+[95]: https://www.acmicpc.net/problem/14442
+[96]: https://www.acmicpc.net/problem/2293
+[97]: https://school.programmers.co.kr/learn/courses/30/lessons/12904
+[98]: https://school.programmers.co.kr/learn/courses/30/lessons/64062
+[99]: https://school.programmers.co.kr/learn/courses/30/lessons/81302
 
 ---
 

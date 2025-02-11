@@ -1,4 +1,6 @@
-class Solution {
+package week21.강수진;
+
+class programmers_징검다리건너기 {
     public int solution(int[] stones, int k) {
         int right = Integer.MIN_VALUE;
         int left = Integer.MAX_VALUE;

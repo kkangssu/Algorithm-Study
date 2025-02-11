@@ -1,4 +1,6 @@
-class Solution {
+package week21.강수진;
+
+class programmers_거리두기확인하기 {
 
     static int[] dr = {-1, 0, 1, 0};
     static int[] dc = {0, 1, 0, -1};

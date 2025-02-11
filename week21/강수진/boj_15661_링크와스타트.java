@@ -1,8 +1,10 @@
+package week21.강수진;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class boj_15661_링크와스타트 {
 
     static int N, min;
     static int[][] ability;
@@ -26,7 +28,6 @@ public class Main {
     }
 
     static void pickTeam(int idx, int linkNum){
-        if(linkNum > N/2) return;
         if(linkNum >= 1){
             abilityCompare(linkNum);
         }

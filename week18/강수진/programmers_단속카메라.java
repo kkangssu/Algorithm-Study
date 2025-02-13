@@ -1,4 +1,5 @@
-package week18;
+package week18.강수진;
+
 
 /*
 정확성  테스트

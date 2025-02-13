@@ -1,4 +1,4 @@
-package week18;
+package week18.강수진;
 
 //메모리: 45856 KB 시간: 372 ms
 

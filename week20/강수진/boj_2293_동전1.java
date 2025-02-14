@@ -1,4 +1,5 @@
-package week20;
+package week20.강수진;
+
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

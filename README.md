@@ -126,6 +126,7 @@
 |  19  |         [파괴되지 않은 건물][93]          | [게임 개발][58]:ballot_box_with_check: |  [돌 그룹][42]:ballot_box_with_check:  |
 |  20  |             [문자열 폭발][94]             |       [벽 부수고 이동하기 2][95]       |             [동전 1][96]              |       [가장 긴 팰린드롬][97]       |
 |  21  |  [휴게소 세우기][46]:ballot_box_with_check:  |  [링크와 스타트][56]:ballot_box_with_check:  |  [징검다리 건너기][98]  |  [거리두기 확인하기][99]  |
+|  22  |  [공유기 설치][36]:ballot_box_with_check:  |  [LCS][63]:ballot_box_with_check:  |  [외벽 점검][100]  |  [경주로 건설][101]  |
 
 :ballot_box_with_check:: 복습 문제
 :white_check_mark:: 복습한 문제
@@ -229,6 +230,8 @@
 [97]: https://school.programmers.co.kr/learn/courses/30/lessons/12904
 [98]: https://school.programmers.co.kr/learn/courses/30/lessons/64062
 [99]: https://school.programmers.co.kr/learn/courses/30/lessons/81302
+[100]: https://school.programmers.co.kr/learn/courses/30/lessons/60062
+[101]: https://school.programmers.co.kr/learn/courses/30/lessons/67259
 
 ---
 

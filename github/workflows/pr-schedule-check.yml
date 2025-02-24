@@ -1,0 +1,57 @@
+name: PR Merge Schedule Check
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  check_merge_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check merge schedule
+        run: |
+          # 한국 시간으로 변환 (TZ 설정)
+          export TZ='Asia/Seoul'
+          
+          # 현재 요일 확인 (1: 월요일, 2: 화요일, ..., 7: 일요일)
+          DAY_OF_WEEK=$(date +%u)
+          
+          # 현재 시간을 시와 분으로 분리
+          HOUR=$(date +%H)
+          MINUTE=$(date +%M)
+          
+          # 시간을 분 단위로 변환 (비교를 쉽게 하기 위해)
+          CURRENT_TIME=$((HOUR * 60 + MINUTE))
+          ALLOWED_START=$((17 * 60))  # 17:00 = 1020분
+          ALLOWED_END=$((18 * 60 + 30))  # 18:30 = 1110분
+          
+          # 화요일(2)이 아닌 경우
+          if [ $DAY_OF_WEEK -ne 2 ]; then
+            echo "PR은 화요일에만 머지할 수 있습니다."
+            echo "현재 요일: $(date +%A)"
+            exit 1
+          fi
+          
+          # 허용된 시간이 아닌 경우
+          if [ $CURRENT_TIME -lt $ALLOWED_START ] || [ $CURRENT_TIME -gt $ALLOWED_END ]; then
+            echo "PR은 오후 5시부터 6시 30분 사이에만 머지할 수 있습니다."
+            echo "현재 시각: $(date +%H:%M)"
+            exit 1
+          fi
+          
+          echo "머지 가능한 시간입니다."
+
+      - name: Block merge on schedule violation
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.pulls.createReview({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              event: 'REQUEST_CHANGES',
+              body: 'PR 머지는 화요일 오후 5시 ~ 6시 30분 사이에만 가능합니다. 지정된 시간에 다시 시도해주세요.'
+            })

@@ -111,9 +111,9 @@
 |  10  |  [하노이 탑 이동 순서][50]  |  [가장 긴 증가하는 부분 수열 2][51]  |  [사다리][52]  |  [소수 경로][53]  |
 |      |  [스도쿠][54]  |
 |  11  |  [빙산][55]  |  [링크와 스타트][56]:white_check_mark:  |  [주유소][57]  |  [게임 개발][58]:white_check_mark:  |
-|  12  |  [청소][59]  |  [양팔저울][60]  |  [청소년 상어][61]  |  [스타트 택시][62]  |
+|  12  |  [청소][59]  |  [양팔저울][60]  |  [청소년 상어][61]  |  [스타트 택시][62]:white_check_mark:  |
 |      |  [LCS][63]:white_check_mark:  |  [팰린드롬?][64]  |
-|  13  |  [소문난 칠공주][65]  |  [죽음의 비][66]  |  [사다리][67]  |  [알약][68]  |
+|  13  |  [소문난 칠공주][65]:white_check_mark:  |  [죽음의 비][66]  |  [사다리][67]  |  [알약][68]  |
 |      |  [물벼룩의 생존확률][69]  |  [캡틴 이다솜][70]  |
 |  14  |  [마법사 상어와 토네이도][71]  |  [모래성][72]  |  [토끼의 이동][73]  |  [아우으 우아으이야!!][74]  |
 |      |  [전깃줄][75]:white_check_mark:  |  [즐거운 단어][76]  |
@@ -127,6 +127,7 @@
 |  20  |  [문자열 폭발][94]  |  [벽 부수고 이동하기 2][95]  |  [동전 1][96]  |  [가장 긴 팰린드롬][97]  |
 |  21  |  [휴게소 세우기][46]:ballot_box_with_check:  |  [링크와 스타트][56]:ballot_box_with_check:  |  [징검다리 건너기][98]  |  [거리두기 확인하기][99]  |
 |  22  |  [공유기 설치][36]:ballot_box_with_check:  |  [LCS][63]:ballot_box_with_check:  |  [외벽 점검][100]  |  [경주로 건설][101]  |
+|  23  |  [스타트 택시][62]:ballot_box_with_check:  |  [소문난 칠공주][65]:ballot_box_with_check:  |  [불량 사용자][102]  |  [양궁 대회][103]  |
 
 :ballot_box_with_check:: 복습 문제
 :white_check_mark:: 복습한 문제
@@ -232,6 +233,8 @@
 [99]: https://school.programmers.co.kr/learn/courses/30/lessons/81302
 [100]: https://school.programmers.co.kr/learn/courses/30/lessons/60062
 [101]: https://school.programmers.co.kr/learn/courses/30/lessons/67259
+[102]: https://school.programmers.co.kr/learn/courses/30/lessons/64064
+[103]: https://school.programmers.co.kr/learn/courses/30/lessons/92342
 
 ---
 

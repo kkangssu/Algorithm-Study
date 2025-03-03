@@ -194,47 +194,7 @@ public class Main {
         System.out.println(K);
     	
     }
-    
-    static int go(int sr, int sc) {
-    	
-    	visited = new boolean[N][N];
-    	q.add(new int[] {r,c});
-    	
-      	int cnt = 0;
-    	
-    	loop: while(!q.isEmpty()) {
-    		
-    		if(cnt > K) {
-    			System.out.println(-1);
-    			return cnt;
-    		}
-    		int size = q.size();
-    		
-    		for(int i = 0; i < size; i++) {
-    			int[] idx = q.poll();
-    			
-    			if(idx[0] == sr && idx[1] == sc)
-    				return cnt;
-    			
-    			for(int d = 0; d < 4; d++) {
-    				int nr = idx[0] + dr[d];
-    				int nc = idx[1] + dc[d];
-    				
-    				if(check(nr,nc) || visited[nr][nc] || map[nr][nc] == 1)
-    					continue;
-    				
-    		
-    				visited[nr][nc] = true;
-    				q.add(new int[] {nr,nc});
-    				
-    			}
-    		}
-    		cnt++;
-    		
-    	}
-    	return Integer.MAX_VALUE;
-    }
-    
+
     static boolean check(int r, int c) {
     	return r>= N || r < 0 || c>= N || c < 0;
     }

@@ -40,39 +40,40 @@ class Main {
         v1 = Integer.parseInt(st.nextToken());
         v2 = Integer.parseInt(st.nextToken());
         
-       // int res = INF;
-       // int a = djikstra(1,v1);
-       // int b = djikstra(v1,v2);
-       // int c = djikstra(v2,N);
-       // if(a !=INF && b!=INF && c!=INF){
-       //     res = Math.min(res, a+b+c);
+        int res = INF;
+        int a = djikstra(1,v1);
+        int b = djikstra(v1,v2);
+        int c = djikstra(v2,N);
+        if(a !=INF && b!=INF && c!=INF){
+            res = Math.min(res, a+b+c);
+        }
+        a = djikstra(1,v2);
+        b = djikstra(v2,v1);
+        c = djikstra(v1,N);
+        if(a !=INF && b!=INF && c!=INF){
+            res = Math.min(res, a+b+c);
+        }
+        System.out.println(res != INF ? res :-1);
+       
+        // middle = djikstra(v1,v2);
+       // if(middle == INF){
+       //     System.out.println(-1);
+       //     return;
        // }
-       // a = djikstra(1,v2);
-       // b = djikstra(v2,v1);
-       // c = djikstra(v1,N);
-       // if(a !=INF && b!=INF && c!=INF){
-       //     res = Math.min(res, a+b+c);
+        
+      //  djikstra(1);
+      //  djikstra(N);
+      //  int case1 = INF;
+      //  if(s1 != INF && e1 != INF){
+       //     case1 = Math.min(case1, s1 + middle + e1);
        // }
-       // System.out.println(res != INF ? res :-1);
-        middle = djikstra(v1,v2);
-        if(middle == INF){
-            System.out.println(-1);
-            return;
-        }
         
-        djikstra(1);
-        djikstra(N);
-        int case1 = INF;
-        if(s1 != INF && e1 != INF){
-            case1 = Math.min(case1, s1 + middle + e1);
-        }
-        
-        int case2 = INF;
-        if(s2 != INF && e2 != INF){
-            case2 = Math.min(case2, s2 + middle + e2);
-        }
-        int res = Math.min(case1,case2);
-        System.out.println(res == INF ? -1 : res);
+      //  int case2 = INF;
+       // if(s2 != INF && e2 != INF){
+        //    case2 = Math.min(case2, s2 + middle + e2);
+       // }
+       // int res = Math.min(case1,case2);
+       // System.out.println(res == INF ? -1 : res);
 }
         static int djikstra(int start, int end){
         PriorityQueue<Node> pq = new PriorityQueue<>();
@@ -86,6 +87,7 @@ class Main {
             Node cur = pq.poll();
             if(vis[cur.v]) continue;
             vis[cur.v] = true;
+             if(cur.v == end) return dist[end];
             for(Node n : adj[cur.v]){
                 if(!vis[n.v] && dist[n.v] > dist[cur.v]+n.w){
                     dist[n.v] = dist[cur.v]+n.w;

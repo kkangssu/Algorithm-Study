@@ -1,0 +1,67 @@
+import java.util.ArrayList;
+import java.util.PriorityQueue;
+
+class Solution {
+    static class Edge implements Comparable<Edge> {
+        int num, dis;
+
+        Edge(int num, int dis) {
+            this.num = num;
+            this.dis = dis;
+        }
+
+        @Override
+        public int compareTo(Edge e) {
+            return dis - e.dis;
+        }
+    }
+    
+    static boolean[] visited;
+    static int[] costs;
+    static PriorityQueue<Edge> pq;
+    static ArrayList<Edge>[] adjList;
+    
+    public int solution(int n, int s, int a, int b, int[][] fares) {
+        adjList = new ArrayList[n];
+        costs = new int[n];
+        s--; a--; b--;
+        for(int i=0; i < n; i++) adjList[i] = new ArrayList<Edge>();
+        for(int i=0; i < fares.length; i++) {
+            adjList[fares[i][0] - 1].add(new Edge(fares[i][1] - 1, fares[i][2]));
+            adjList[fares[i][1] - 1].add(new Edge(fares[i][0] - 1, fares[i][2]));
+        }
+        
+        int cost1 = 0;
+        int cost2 = 0;
+        cost1 += dijkstra(n, s, a);
+        cost1 += dijkstra(n, a, b);
+        cost2 += dijkstra(n, s, b);
+        cost2 += dijkstra(n, b, a);
+        
+        return cost1 < cost2 ? cost1 : cost2;
+    }
+    
+    static int dijkstra(int n, int from, int to) {
+        visited = new boolean[n];
+        for(int i=0; i < n; i++) costs[i] = Integer.MAX_VALUE;
+        pq = new PriorityQueue<Edge>();
+        pq.offer(new Edge(from, 0));
+        costs[from] = 0;
+        while(!pq.isEmpty()) {
+            Edge cur = pq.poll();
+            if(visited[cur.num]) continue;
+
+            visited[cur.num] = true;
+            for(int i=0; i < adjList[cur.num].size(); i++) {
+                Edge next = adjList[cur.num].get(i);
+
+                if(costs[next.num] > costs[cur.num]+next.dis){
+                    costs[next.num] = costs[cur.num] + next.dis;
+                    pq.offer(new Edge(next.num, costs[next.num]));
+                }
+            }
+        }
+
+        return costs[to];
+    }
+}

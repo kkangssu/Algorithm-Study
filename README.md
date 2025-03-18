@@ -131,6 +131,7 @@
 |  24  |  [특정한 최단 경로][86]:ballot_box_with_check:  |  [여행 가자][47]:ballot_box_with_check:  |  [오픈채팅방][104]  |  [합승 택시 요금][105]  |
 |      |  [양궁 대회][103]  |
 |  25  |  [우주신과의 교감][80]:ballot_box_with_check:  |  [청소][59]:ballot_box_with_check:  |  [이모티콘 할인행사][106]  |  [표현 가능한 이진트리][107]  |
+|  26  |  [튜터-튜티 관계의 수][108]  |  [최소 스패닝 트리][109]  |
 
 :ballot_box_with_check:: 복습 문제
 :white_check_mark:: 복습한 문제
@@ -242,6 +243,8 @@
 [105]: https://school.programmers.co.kr/learn/courses/30/lessons/72413
 [106]: https://school.programmers.co.kr/learn/courses/30/lessons/150368
 [107]: https://school.programmers.co.kr/learn/courses/30/lessons/150367
+[108]: https://www.acmicpc.net/problem/24542
+[109]: https://www.acmicpc.net/problem/1197
 
 ---
 

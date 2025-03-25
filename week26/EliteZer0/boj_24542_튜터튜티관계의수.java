@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class boj_24542 {
+public class boj_24542_튜터튜티관계의수 {
     static int[] parent;
 
     // 초기화 메서드로 분리했을 땐 75708kb 428ms 77732kb 432ms

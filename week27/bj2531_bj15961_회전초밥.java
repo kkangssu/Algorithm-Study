@@ -1,7 +1,10 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+/**
+* 2531번  22456kb	308ms
+* 15961번 310296kb	960ms
+*/ 
 class Main {
     static int N, d, k ,c ; //접시 , 초밥가지, 연속접시, 쿠폰번호
     static int[] susis;
@@ -22,7 +25,7 @@ class Main {
         int end = k-1;
       
         Map<Integer, Integer> check = new HashMap<>();
-        check.put(c,30001); // 쿠폰은 무조건 존재
+        check.put(c,3000001); // 쿠폰은 무조건 존재 (15961번용)
         for(int i = 0 ; i <= end; i++){ //end를 k로 두고 i<end로 했더니 while문에서 window 업데이트 후에 들어올걸 더해서, k가 1번씩 앞서는 현상 발생, 그래서 k-1로 하고 i<=end로 수정
             check.merge(susis[i], 1, (o,n)-> o + n);
         }

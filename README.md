@@ -106,27 +106,32 @@
 |      |  [데스 나이트][34]  |  [DSLR][35]  |  [공유기 설치][36]:white_check_mark:  |  [네트워크 연결][37]  |
 |  8   |  [동전 뒤집기][38]  |  [레이저 통신][39]  |  [움직이는 미로 탈출][40]  |  [전구와 스위치][41]  |
 |      |  [돌 그룹][42]:white_check_mark:  |  [선분과 점][43]  |
-|  9   |  [가장 긴 감소하는 부분 수열][44]  |  [불!][45]  |  [휴게소 세우기][46]:white_check_mark:  |  [여행 가자][47]  |
+|  9   |  [가장 긴 감소하는 부분 수열][44]  |  [불!][45]  |  [휴게소 세우기][46]:white_check_mark:  |  [여행 가자][47]:white_check_mark:  |
 |      |  [최소비용 구하기][48]  |  [줄 세우기][49]:white_check_mark:  |
 |  10  |  [하노이 탑 이동 순서][50]  |  [가장 긴 증가하는 부분 수열 2][51]  |  [사다리][52]  |  [소수 경로][53]  |
 |      |  [스도쿠][54]  |
 |  11  |  [빙산][55]  |  [링크와 스타트][56]:white_check_mark:  |  [주유소][57]  |  [게임 개발][58]:white_check_mark:  |
-|  12  |  [청소][59]  |  [양팔저울][60]  |  [청소년 상어][61]  |  [스타트 택시][62]  |
+|  12  |  [청소][59]:white_check_mark:  |  [양팔저울][60]  |  [청소년 상어][61]  |  [스타트 택시][62]:white_check_mark:  |
 |      |  [LCS][63]:white_check_mark:  |  [팰린드롬?][64]  |
-|  13  |  [소문난 칠공주][65]  |  [죽음의 비][66]  |  [사다리][67]  |  [알약][68]  |
+|  13  |  [소문난 칠공주][65]:white_check_mark:  |  [죽음의 비][66]  |  [사다리][67]  |  [알약][68]  |
 |      |  [물벼룩의 생존확률][69]  |  [캡틴 이다솜][70]  |
 |  14  |  [마법사 상어와 토네이도][71]  |  [모래성][72]  |  [토끼의 이동][73]  |  [아우으 우아으이야!!][74]  |
 |      |  [전깃줄][75]:white_check_mark:  |  [즐거운 단어][76]  |
-|  15  |  [수영장 사장님][77]  |  [나머지 합][78]  |  [사이클 게임][79]  |  [우주신과의 교감][80]  |
+|  15  |  [수영장 사장님][77]  |  [나머지 합][78]  |  [사이클 게임][79]  |  [우주신과의 교감][80]:white_check_mark:  |
 |      |  [최종 순위][81]  |
 |  16  |  [소수의 연속합][82]  |  [문제집][83]  |  [가스관][84]  |  [상어 중학교][85]  |
-|      |  [특정한 최단 경로][86]  |  [2048 (Easy)][87]  
+|      |  [특정한 최단 경로][86]:white_check_mark:  |  [2048 (Easy)][87]  
 |  17  |  [석유시추][88]  |  [등굣길][89]  |  [미로 탈출 명령어][90]  |
 |  18  |  [길 찾기 게임][91]  |  [단속카메라][92]  | [줄 세우기][49]:ballot_box_with_check: | [전깃줄][75]:ballot_box_with_check: |
 |  19  |  [파괴되지 않은 건물][93]  | [게임 개발][58]:ballot_box_with_check: |  [돌 그룹][42]:ballot_box_with_check:  |
 |  20  |  [문자열 폭발][94]  |  [벽 부수고 이동하기 2][95]  |  [동전 1][96]  |  [가장 긴 팰린드롬][97]  |
 |  21  |  [휴게소 세우기][46]:ballot_box_with_check:  |  [링크와 스타트][56]:ballot_box_with_check:  |  [징검다리 건너기][98]  |  [거리두기 확인하기][99]  |
 |  22  |  [공유기 설치][36]:ballot_box_with_check:  |  [LCS][63]:ballot_box_with_check:  |  [외벽 점검][100]  |  [경주로 건설][101]  |
+|  23  |  [스타트 택시][62]:ballot_box_with_check:  |  [소문난 칠공주][65]:ballot_box_with_check:  |  [불량 사용자][102]  |
+|  24  |  [특정한 최단 경로][86]:ballot_box_with_check:  |  [여행 가자][47]:ballot_box_with_check:  |  [오픈채팅방][104]  |  [합승 택시 요금][105]  |
+|      |  [양궁 대회][103]  |
+|  25  |  [우주신과의 교감][80]:ballot_box_with_check:  |  [청소][59]:ballot_box_with_check:  |  [이모티콘 할인행사][106]  |  [표현 가능한 이진트리][107]  |
+|  26  |  [튜터-튜티 관계의 수][108]  |  [최소 스패닝 트리][109]  |
 
 :ballot_box_with_check:: 복습 문제
 :white_check_mark:: 복습한 문제
@@ -232,6 +237,14 @@
 [99]: https://school.programmers.co.kr/learn/courses/30/lessons/81302
 [100]: https://school.programmers.co.kr/learn/courses/30/lessons/60062
 [101]: https://school.programmers.co.kr/learn/courses/30/lessons/67259
+[102]: https://school.programmers.co.kr/learn/courses/30/lessons/64064
+[103]: https://school.programmers.co.kr/learn/courses/30/lessons/92342
+[104]: https://school.programmers.co.kr/learn/courses/30/lessons/42888
+[105]: https://school.programmers.co.kr/learn/courses/30/lessons/72413
+[106]: https://school.programmers.co.kr/learn/courses/30/lessons/150368
+[107]: https://school.programmers.co.kr/learn/courses/30/lessons/150367
+[108]: https://www.acmicpc.net/problem/24542
+[109]: https://www.acmicpc.net/problem/1197
 
 ---
 

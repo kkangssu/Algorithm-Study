@@ -1,0 +1,45 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+
+        int n = Integer.parseInt(br.readLine());
+        int[] liq = new int[n];
+        st = new StringTokenizer(br.readLine());
+        for(int i = 0; i < n; i++){
+            liq[i] = Integer.parseInt(st.nextToken());
+        }
+        Arrays.sort(liq);
+
+        int left = 0;
+        int right = n-1;
+        int minDiff = Integer.MAX_VALUE;
+        int sum = 0;
+        int diff = 0;
+        int acid = 0;
+        int alkal = 0;
+        while(left < right){
+            sum = liq[right] + liq[left];
+            diff = Math.abs(sum);
+            
+            if(diff < minDiff){
+                minDiff = diff;
+                alkal = left;
+                acid = right;
+            }
+
+            if(sum < 0){
+                left++;
+            }
+            else{
+                right--;
+            }
+        }
+        System.out.println(liq[alkal] + " " + liq[acid]);
+    }
+}

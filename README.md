@@ -132,6 +132,9 @@
 |      |  [양궁 대회][103]  |
 |  25  |  [우주신과의 교감][80]:ballot_box_with_check:  |  [청소][59]:ballot_box_with_check:  |  [이모티콘 할인행사][106]  |  [표현 가능한 이진트리][107]  |
 |  26  |  [튜터-튜티 관계의 수][108]  |  [최소 스패닝 트리][109]  |
+|  27  |  [회전초밥][110]  |  [DNA 비밀번호][111]  |  [수 고르기][112]  |  [귀여운 라이언][113]  |
+|  28  |  [넴모넴모 (Easy)][114]  |  [색종이 붙이기][115]  |
+|  29  |  [회장뽑기][116]  |  [순위][117]  |  [박성원][118]  |  [외판원 순회][119]  |
 
 :ballot_box_with_check:: 복습 문제
 :white_check_mark:: 복습한 문제
@@ -245,6 +248,16 @@
 [107]: https://school.programmers.co.kr/learn/courses/30/lessons/150367
 [108]: https://www.acmicpc.net/problem/24542
 [109]: https://www.acmicpc.net/problem/1197
+[110]: https://www.acmicpc.net/problem/2531
+[111]: https://www.acmicpc.net/problem/12891
+[112]: https://www.acmicpc.net/problem/2230
+[113]: https://www.acmicpc.net/problem/15565
+[114]: https://www.acmicpc.net/problem/14712
+[115]: https://www.acmicpc.net/problem/17136
+[116]: https://www.acmicpc.net/problem/2660
+[117]: https://school.programmers.co.kr/learn/courses/30/lessons/49191
+[118]: https://www.acmicpc.net/problem/1086
+[119]: https://www.acmicpc.net/problem/2098
 
 ---
 

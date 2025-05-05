@@ -11,20 +11,10 @@ class Main {
 	static int[][] map;
 	static Queue<Integer> q;
 	static int[][] liked; 
-	static PriorityQueue<Place> pq;
 	static int[] dr = {1,-1,0,0};
 	static int[] dc = {0,0,1,-1};
-	static class Place {
-		int r,c,l,e;
-		
-		Place(int r, int c, int l, int e){
-			this.r= r;
-			this.c=c;
-			this.l=l;
-			this.e=e;
-		}
-		
-	}
+
+	
  public static void main(String[] args) throws Exception {
      BufferedReader br = new BufferedReader(new InputStreamReader(System.in));;
      StringTokenizer st = new StringTokenizer(br.readLine());
@@ -43,28 +33,18 @@ class Main {
     	 }   	 
      }
      
-     
-     pq = new PriorityQueue<>((o1,o2)->{
-    	 if(o1.l != o2.l) 
-    		 return o2.l-o1.l;
-    	 
-    	 if(o1.e != o2.e) 
-    		 return o2.e-o1.e;
-    	 
-    	 if(o1.r!=o2.r)
-    		 return o1.r-o2.r;
-    	 
-    	 return o1.c-o2.c;
-    	 
-     });
-     
+
      while(!q.isEmpty()) {
     	 int num = q.poll(); 
+    	 int l = -1;
+    	 int e = -1;
+    	 int r = -1;
+    	 int c = -1;
     	 
     	 for(int i = 0 ; i < N; i++) {
     		 for(int j = 0; j < N; j++) {
-        		 int e = 0;
-        		 int l = 0;	 	 
+        		 int tmpE = 0;
+        		 int tmpL = 0;	 	 
         		 
         		 if(map[i][j]!=0)
         			 continue;
@@ -77,26 +57,59 @@ class Main {
     					 continue;
     				 
         			 if(map[nr][nc] == 0) {
-        				 e++;
+        				 tmpE++;
         				 continue;
         			 }
         			 
         			 for(int k = 0; k < 4; k++) {
         				 if(map[nr][nc] == liked[num][k]) {
-        					 l++;
+        					 tmpL++;
         				 }
         			 }
     			 }
     			 
-    			 pq.add(new Place(i,j,l,e));
+    			if(tmpL > l) {
+    				l = tmpL;
+    				e = tmpE;
+    				r = i;
+    				c = j;
+    				continue;
+    				
+    			} else if(tmpL == l) {
+    				if(tmpE > e) {
+        				l = tmpL;
+        				e = tmpE;
+        				r = i;
+        				c = j;
+        				continue;
+    				}
+    				else if(tmpE== e) {
+    					if(r > i) {
+            				l = tmpL;
+            				e = tmpE;
+            				r = i;
+            				c = j;
+            				continue;
+    					}	
+        				else if(r==i) {
+        					if(c > j) {
+        	    				l = tmpL;
+        	    				e = tmpE;
+        	    				r = i;
+        	    				c = j;
+        	    				continue;
+        					}
+        				}
+    				}
+    			}
+    			
 
     			 
     		 }
     	 }
     	 
-    	 Place p = pq.poll();
-    	 map[p.r][p.c] = num;
-    	 pq.clear();
+
+    	 map[r][c] = num;
      }
      
      int answer = 0;
@@ -133,9 +146,9 @@ class Main {
     	 }
      }
      System.out.println(answer);
-         
+     
+     
  }
-  
  static boolean check(int r, int c) {
 	 return r>=N|| r < 0 || c>= N || c < 0;
  }

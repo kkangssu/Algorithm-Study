@@ -23,7 +23,7 @@ class Main {
 	}
 	static int rx,ry,bx,by;
 	static Queue<Bead> q; 
-	
+	static boolean[][][][] visited;
  public static void main(String[] args) throws Exception {
      BufferedReader br = new BufferedReader(new InputStreamReader(System.in));;
      StringTokenizer st = new StringTokenizer(br.readLine());
@@ -36,7 +36,7 @@ class Main {
      ry = -1;
      
      map = new char[N][M];
-     
+     visited = new boolean[N][M][N][M];
      for(int i = 0; i < N; i++) {
     	 map[i] = br.readLine().toCharArray();
     	 for(int j = 0; j < M; j++) {
@@ -55,6 +55,7 @@ class Main {
      q = new LinkedList<>();
      
      q.add(new Bead(bx,by,rx,ry));
+     visited[bx][by][rx][ry] = true;
      
      for(int i = 0; i <= 10; i++) {
     	 
@@ -76,8 +77,8 @@ class Main {
         		 
         		 
         		 if(rx > bx) {
-            		     go(0, true);
-            		     go(1, false); 
+            		 go(0, true);
+            		 go(1, false); 
         		 } else {
         			go(0, false);
         			go(1, true);
@@ -167,14 +168,19 @@ class Main {
 			 if(map[rdx][rdy] == 'O')
 				 break; 
 		 }
-	 
+		 
+		 
 	 }
 
 	 if(map[bdx][bdy] != 'O') {
-		 q.add(new Bead(bdx,bdy, rdx,rdy));
+		 if(!visited[bdx][bdy][rdx][rdy]){
+             visited[bdx][bdy][rdx][rdy] = true;
+             q.add(new Bead(bdx,bdy, rdx,rdy));
+         }
+
 	 }
-	 
 	 return;	 
+	 
  }
  
 }

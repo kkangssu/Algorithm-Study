@@ -76,8 +76,8 @@ class Main {
         		 
         		 
         		 if(rx > bx) {
-            		 go(0, true);
-            		 go(1, false); 
+            		     go(0, true);
+            		     go(1, false); 
         		 } else {
         			go(0, false);
         			go(1, true);
@@ -167,17 +167,14 @@ class Main {
 			 if(map[rdx][rdy] == 'O')
 				 break; 
 		 }
-		 
-		 
+	 
 	 }
 
 	 if(map[bdx][bdy] != 'O') {
 		 q.add(new Bead(bdx,bdy, rdx,rdy));
 	 }
 	 
-	 return;
-	 
-	 
+	 return;	 
  }
  
 }

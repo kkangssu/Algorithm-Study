@@ -34,6 +34,12 @@ class Main {
 		 return Double.compare(o1.w, o2.w);
 	 });
 	 
+//	 q = new PriorityQueue<>((o1,o2)->{
+//         if(o1.w>=o2.w) 
+//        	 return 1;        
+//		 return -1;
+//	 });
+	 
 	 for(int i = 1; i <= N; i++) {
 		 st = new StringTokenizer(br.readLine());
 		 x[i] = Double.parseDouble(st.nextToken());

@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Main {
+class boj_21939_문제추천시스템Version1 {
 
     static class ProbAsc implements Comparable<ProbAsc> {
         int num, level;

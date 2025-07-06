@@ -22,7 +22,7 @@ public class boj_1937_욕심쟁이판다 {
             }
         }
 
-        int max = 0;
+        int max = 1;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
                 max = Math.max(max, dfs(i, j));
@@ -41,7 +41,7 @@ public class boj_1937_욕심쟁이판다 {
             int nc = c + dc[i];
 
             if(!check(nr, nc)) continue;
-            if(map[nr][nc] > map[r][c]) continue;
+            if(map[nr][nc] < map[r][c]) continue;
 
             dp[r][c] = Math.max(dp[r][c], dfs(nr, nc)+1);
         }
